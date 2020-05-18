@@ -16,7 +16,9 @@ hr {
 h1 {
     color: #6886c5;
 }
-
+img {
+    border-radius: 50%;
+}
 h3 {
     color: #ffacb7;
 }
