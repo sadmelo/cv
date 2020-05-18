@@ -1,0 +1,22 @@
+*{
+    font-family: sans-serif;
+    color: #6886c5;
+}
+
+body {
+    background-color: #f9f9f9;
+}
+hr {
+    border-style: none;
+    border-top:dotted;
+    border-color: #ffb6b6;
+    border-width: 7px;
+    width: 20%;
+}
+h1 {
+    color: #6886c5;
+}
+
+h3 {
+    color: #ffacb7;
+}
